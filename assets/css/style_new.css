@@ -1,0 +1,121 @@
+html, body{
+	font-family: 'Architects Daughter', serif;
+}
+
+h2{
+	font-size:  40px;
+	margin-top: 10px;
+	margin-left: 30px;	
+}
+
+h3{
+	font-size: 25px;
+	margin-left: 30px;	
+}
+
+#appTitle{
+	font-style: bold;
+	color: beige;
+	margin-left: 20px;
+}
+
+#transbox{
+	height: 75%;
+	width:  96%;
+	margin: 15px;
+    background-color: beige; /*#ffffff;*/
+    border: 1px solid black;
+    /*border-radius: 4px;*/
+    opacity: 0.8;
+    overflow-y: auto;
+    overflow-x: hidden;	
+}
+
+#container {
+	height: 600px;
+	width:  800px;
+	background-image: 800px 600px;
+	border: 2px solid black;
+}
+
+.col-sm-1{
+	margin-left: 55px;
+}
+
+#currentLists{
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+#listTitle{
+	font-size: 25px;
+	margin-left: 25px;
+}
+
+#trademark{
+	font-size: 12px;
+}
+
+.buttonTitle{
+	font-size: 20px;
+}
+
+#buttons{
+	margin-left: 30px;
+}
+
+#login{
+	margin-left: 260px;
+}
+
+.list{
+	font-size: 16px;
+	font-style: bold;
+	margin-left: 40px;
+	padding-left: 10px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;  
+}
+
+th, td {
+	padding: 5px;
+	color: black;
+}
+
+/*th {
+    border-radius: 4px;
+}*/
+
+.table{
+	width: 50%;
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin-left: 40px;
+}
+
+.caption{
+	font-size: 20px; 
+	font-style: bold;
+	text-align: left;
+	color: black;
+}
+
+/*.items{
+	margin-left: 20px;
+	padding-left: 20px;
+}*/
+
+.navBar{
+	margin-top: 5px;
+	margin-left: 10px;
+	margin-bottom: 15px;
+
+}
+
+.navBarImg{
+	margin-left: 20px;
+}
